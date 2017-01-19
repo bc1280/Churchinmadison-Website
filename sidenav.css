@@ -1,0 +1,5 @@
+#nav>.active> a,
+#nav>.active> a:focus,
+#nav>.active> a:hover {
+    color: #008080;
+}

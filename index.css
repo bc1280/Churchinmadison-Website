@@ -1,0 +1,12 @@
+body.custom-background {
+    background-color: #606060;
+    background-image: url('picture/background.JPG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.w3-main {
+    opacity: 0.95;
+}
